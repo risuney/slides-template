@@ -1,0 +1,2 @@
+# slides-template
+Google slidesのテンプレートです
